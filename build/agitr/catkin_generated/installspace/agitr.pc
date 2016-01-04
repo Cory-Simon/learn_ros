@@ -1,0 +1,8 @@
+prefix=/home/cory/learn_ros/install
+
+Name: agitr
+Description: Description of agitr
+Version: 0.0.10
+Cflags: 
+Libs: -L/home/cory/learn_ros/install/lib 
+Requires: 

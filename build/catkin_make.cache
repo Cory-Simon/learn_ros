@@ -1,0 +1,2 @@
+agitr
+-DCATKIN_DEVEL_PREFIX=/home/cory/learn_ros/devel -DCMAKE_INSTALL_PREFIX=/home/cory/learn_ros/install -G Unix Makefiles

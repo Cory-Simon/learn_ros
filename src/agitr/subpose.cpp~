@@ -1,0 +1,13 @@
+//This program subsricbes to turtle1/pose and shows its
+//messages on the screen.
+
+#include <ros/ros.h>
+#include <turtlesim/Pose.h>
+#include <iomanip> //for std :: setprecision and std :: fixed
+
+//A callback function. Executed each time a new pose
+//message arrives.
+
+void poseMessageReceived(const turtlesim :: Pose& msg){
+
+}
